@@ -21,7 +21,7 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 
 ### *"Qual o grau de dificuldade desta prova na parte de Formação Geral?"*
 
-![image](https://user-images.githubusercontent.com/39538844/69901977-39c51d00-1367-11ea-86bf-3c62b27a09a5.png)
+![image](https://user-images.githubusercontent.com/39538844/69902207-7e51b800-1369-11ea-9a14-2eb0234dcfdc.png)
 
 * A - Muito Fácil
 * B - Fácil
@@ -43,3 +43,26 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 * * - Anulada
 * . - Não Respondeu
 
+### *"Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foi:"*
+
+![image](https://user-images.githubusercontent.com/39538844/69902396-12bd1a00-136c-11ea-8cd0-92ca8e8ec5ad.png)
+
+* A - Muito Longa
+* B - Longa
+* C - Adequada
+* D - Curta
+* E - Muito curta
+* * - Anulada
+* . - Não Respondeu
+
+### *"Os enunciados das questões da prova na parte de Formação Geral estavam claros e objetivos?"*
+
+![image](https://user-images.githubusercontent.com/39538844/69902440-a989d680-136c-11ea-87d8-d97c2bd41831.png)
+
+* A - Sim, todos
+* B - Sim, maioria
+* C - Apenas cerca da metade
+* D - Poucos se apresentam
+* E - Não, nenhum
+* * - Resposta Anulada
+* . - Não Respondeu
