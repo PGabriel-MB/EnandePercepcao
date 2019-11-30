@@ -28,7 +28,7 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 * C - Médio
 * D - Difícil
 * E - Muito Difíl
-* * - Anulada
+* '*' - Anulada
 * . - Não Respondeu
 
 ### *"Qual o grau de dificuldade desta prova na parte do Componente Específico?"*
@@ -40,7 +40,7 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 * C - Médio
 * D - Difícil
 * E - Muito Difíl
-* * - Anulada
+* '*' - Anulada
 * . - Não Respondeu
 
 ### *"Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foi:"*
@@ -52,7 +52,7 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 * C - Adequada
 * D - Curta
 * E - Muito curta
-* * - Anulada
+* '*' - Anulada
 * . - Não Respondeu
 
 ### *"Os enunciados das questões da prova na parte de Formação Geral estavam claros e objetivos?"*
@@ -64,5 +64,5 @@ Seguem os gráficos de como os alunos viram a avaliação da prova!
 * C - Apenas cerca da metade
 * D - Poucos se apresentam
 * E - Não, nenhum
-* * - Resposta Anulada
+* '*' - Resposta Anulada
 * . - Não Respondeu
