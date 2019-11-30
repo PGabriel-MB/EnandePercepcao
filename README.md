@@ -14,3 +14,32 @@ Os dados dos gráfico foram obtidos pelo site do [INEP](http://inep.gov.br/micro
 ## Preparação dos dados
 
 A base de dados utilizada era excessivamente muito grande e por isso, foi necessário criar um script, também presente neste respositório, que seria `new_csv.py` gerando assim um novo arquivo .csv como base de dados para a criação dos gráficos a seguir.
+
+## Percepção do Enade no ponto de vista dos Alunos
+
+Seguem os gráficos de como os alunos viram a avaliação da prova!
+
+### *"Qual o grau de dificuldade desta prova na parte de Formação Geral?"*
+
+![image](https://user-images.githubusercontent.com/39538844/69901977-39c51d00-1367-11ea-86bf-3c62b27a09a5.png)
+
+* A - Muito Fácil
+* B - Fácil
+* C - Médio
+* D - Difícil
+* E - Muito Difíl
+* * - Anulada
+* . - Não Respondeu
+
+### *"Qual o grau de dificuldade desta prova na parte do Componente Específico?"*
+
+![image](https://user-images.githubusercontent.com/39538844/69902170-1ac78a80-1369-11ea-8a90-f69c4690c834.png)
+
+* A - Muito Fácil
+* B - Fácil
+* C - Médio
+* D - Difícil
+* E - Muito Difíl
+* * - Anulada
+* . - Não Respondeu
+
